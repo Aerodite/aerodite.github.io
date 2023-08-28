@@ -46,3 +46,13 @@ body{
     cursor: pointer;
     transition: background-color var(--transition-speed);
 }
+
+.imgimg{
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
